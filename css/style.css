@@ -72,6 +72,7 @@ nav,
   letter-spacing: 0.04em;
   line-height: 1.5;
   text-transform: capitalize;
+  outline: none;
 }
 /* header */
 
